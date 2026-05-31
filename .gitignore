@@ -1,0 +1,31 @@
+# Ignore README.md
+README.md
+
+# Ignore .vscode folder
+.vscode/
+
+# Ignore .metadata folder
+.metadata/
+
+# Ignore target folder (Maven build output)
+target/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
